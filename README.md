@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/animated/hero.svg" alt="Reactor AI: a physics-informed yield model" width="100%"/>
-</p>
-
 <h1 align="center">Reactor AI</h1>
 
 <p align="center"><b>Predicting reactor yield by encoding the chemistry and letting the data fix the constants.</b></p>
