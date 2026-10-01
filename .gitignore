@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.DS_Store
+# challenge data and generated predictions (add back if you want them public)
+Reactor AI/
+reactor_yield_predictions.csv
